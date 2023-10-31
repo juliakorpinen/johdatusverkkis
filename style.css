@@ -1,6 +1,6 @@
 style css
 *{ 
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: Georgia, Times, 'Times New Roman', serif;
 }
 
 .jsharkkatyyli {
@@ -32,7 +32,7 @@ flex-table {
 body {
 }
 h1,h2,h3 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    font-family: Georgia, Times, 'Times New Roman', serif;
 }
 .esimerkki-box {
     background-color: rgb(171, 240, 171);
